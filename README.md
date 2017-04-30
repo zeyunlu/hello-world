@@ -1,6 +1,6 @@
 # hello-world
 > Just a repository
 
-* My name is Christian
+* What a wonderful world!
 * I love Jesus Christ
 * Fighting for your career!
