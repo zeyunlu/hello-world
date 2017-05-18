@@ -1,5 +1,5 @@
 # hello-world
-> Just a repository
+> !We need to work hard, learn hard, and be happy.
 
 <!--* Super Super Final Version-->
 <!--* I love Jesus Christ-->
